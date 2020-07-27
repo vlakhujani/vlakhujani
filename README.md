@@ -6,5 +6,5 @@
 - 🤔 I’m exploring software building tools.
 - 💬 Ask me about `Python`
 - 📫 How to reach me: Github is Home
-- ⚡ Fun fact: I am originally from Jodhpur, Rajasthan which is also known as `Blue City` and `Sun city`
+- ⚡ Fun fact: I know 8 languages out of which I can code in 3 !!
 
