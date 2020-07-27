@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😎 My name is Vijay Lakhujani
+- 😎 My name is Vijay
 - 🔭 I’m currently working as Sr Bioinformatician @ Neuberg Centre for Genomic Medicine, Ahmedabad
 - 🌱 I’m currently learning `ML`
 - 🤔 I’m exploring software building tools.
