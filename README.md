@@ -7,5 +7,5 @@
 - 📫 How to reach me: Github is 🏠
 - ⚡ Fun fact: I know 8 languages out of which I can code in 3 !!
 
-[![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vlakhujani)](https://github.com/vlakhujani/github-readme-stats)
+![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vlakhujani&show_icons=true&theme=radical)
 
