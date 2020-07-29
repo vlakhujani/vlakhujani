@@ -9,4 +9,3 @@
 
 ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vlakhujani&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlakhujani&layout=compact)](https://github.com/vlakhujani/github-readme-stats)
