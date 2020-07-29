@@ -5,7 +5,7 @@
 - 🤖 I 💙 automating routine and boring stuff 
 - 💬 Ask me about `Python`
 - 📫 How to reach me: Github is 🏠
-- ⚡ Fun fact: I know 8 languages out of which I can code in 3 !!
+- ⚡ Fun fact: I can talk in 4 ,understand 5 and can code in 3 different languages !!
 
 ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vlakhujani&show_icons=true&theme=dark)
 
