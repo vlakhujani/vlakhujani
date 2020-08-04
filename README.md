@@ -1,5 +1,5 @@
  ![](https://github.com/vlakhujani/vlakhujani/blob/master/hi.gif)
-- 🔭 I’m currently working as Bioinformatician Lead @ Neuberg Centre for Genomic Medicine, Ahmedabad
+- 🔭 I’m currently working as Bioinformatics Lead @ Neuberg Centre for Genomic Medicine, Ahmedabad
 - 🤔 I’m exploring software building tools
 - 🤖 I 💙 automating routine and boring stuff 
 - 💬 Ask me about `Python`
