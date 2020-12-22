@@ -1,4 +1,3 @@
-- 🔭 I’m currently working as Bioinformatics Lead @ Neuberg Centre for Genomic Medicine, Ahmedabad
 - 🤔 I’m exploring software building 
 - 🤖 I 💙 automating routine and boring stuff 
 - 💬 Ask me about `Python`
