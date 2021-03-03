@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lakhujanivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lakhujanivijay" height="30" width="40" /></a>
 <a href="https://twitter.com/vijay_lakhujani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vijay_lakhujani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakhujanivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lakhujanivijay" height="30" width="40" /></a>
 <a href="https://instagram.com/bioinformagician" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bioinformagician" height="30" width="40" /></a>
