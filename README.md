@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Lakhujani</h1>
-<h3 align="center">A passionate bioinformatician</h3>
+<h3 align="center">Bioinformatics | Genomics | Coding</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlakhujani" alt="vlakhujani" /></a> </p>
