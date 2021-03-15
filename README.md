@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Lakhujani</h1>
 <h3 align="center">Bioinformatics | Genomics | Coding</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vlakhujani&label=Profile%20views&color=0e75b6&style=flat" alt="vlakhujani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlakhujani" alt="vlakhujani" /></a> </p>
 
@@ -8,10 +9,11 @@
 
 - 💬 Ask me about **python and bash**
 
-- 📫 How to reach me **git is home !**
+- 📫 How to reach me **- git is home !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/lakhujanivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lakhujanivijay" height="30" width="40" /></a>
 <a href="https://twitter.com/vijay_lakhujani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vijay_lakhujani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakhujanivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lakhujanivijay" height="30" width="40" /></a>
 <a href="https://instagram.com/bioinformagician" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bioinformagician" height="30" width="40" /></a>
@@ -26,7 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlakhujani&show_icons=true&locale=en" alt="vlakhujani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlakhujani&" alt="vlakhujani" /></p>
-
-
-![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vlakhujani&show_icons=true&theme=dark)
-
